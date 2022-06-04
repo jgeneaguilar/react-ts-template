@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React TS Template
+
+This project is a template for a React app with Typescript. Linter and formatter, and their rules are added.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
